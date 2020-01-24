@@ -17,7 +17,7 @@ let colorsSizes = {
   },
   '32': {
     size: 64,
-    color: '#BEBEBE'
+    color: '#EEDD9D'
   },
   '64': {
     size: 64,
